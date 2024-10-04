@@ -1,0 +1,10 @@
+div {
+	display: block; /* Lägger sig på en egen rad. Kan använda width/height */
+	display: inline; /* Lägger sig i texten. Man kan INTE använda width/height */
+	display: inline-block; /* Lägger sig i texten. Man kan använda width/height */
+
+	width: 100px;
+	height: 100px;
+
+	background-color: aquamarine;
+}
