@@ -17,3 +17,7 @@ div {
 
 	overflow: auto;
 }
+
+div:first-child {
+	display: none;
+}
